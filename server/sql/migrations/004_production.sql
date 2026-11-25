@@ -1,0 +1,38 @@
+ALTER TABLE users ADD COLUMN role ENUM('user','admin') NOT NULL DEFAULT 'user';
+ALTER TABLE users ADD COLUMN status ENUM('active','disabled') NOT NULL DEFAULT 'active';
+ALTER TABLE users ADD COLUMN token_version INT UNSIGNED NOT NULL DEFAULT 0;
+
+ALTER TABLE orders MODIFY COLUMN status ENUM('pending','completed','cancelled','shipped') NOT NULL DEFAULT 'pending';
+ALTER TABLE orders ADD COLUMN delivery_mode ENUM('pickup','shipping') NOT NULL DEFAULT 'pickup';
+ALTER TABLE orders ADD COLUMN address_snapshot JSON DEFAULT NULL;
+ALTER TABLE orders ADD COLUMN carrier VARCHAR(60) DEFAULT NULL;
+ALTER TABLE orders ADD COLUMN tracking_no VARCHAR(80) DEFAULT NULL;
+ALTER TABLE orders ADD COLUMN shipped_at DATETIME DEFAULT NULL;
+ALTER TABLE orders ADD COLUMN completed_at DATETIME DEFAULT NULL;
+
+CREATE TABLE IF NOT EXISTS addresses (
+  id INT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  user_id INT UNSIGNED NOT NULL,
+  receiver_name VARCHAR(30) NOT NULL,
+  phone VARCHAR(11) NOT NULL,
+  province VARCHAR(30) NOT NULL,
+  city VARCHAR(30) NOT NULL,
+  district VARCHAR(30) NOT NULL,
+  detail VARCHAR(200) NOT NULL,
+  label VARCHAR(20) NOT NULL DEFAULT '',
+  is_default BOOLEAN NOT NULL DEFAULT FALSE,
+  default_user_id INT UNSIGNED GENERATED ALWAYS AS (CASE WHEN is_default THEN user_id END) VIRTUAL,
+  KEY idx_addresses_user (user_id, id),
+  UNIQUE KEY uk_addresses_default_user (default_user_id),
+  FOREIGN KEY (user_id) REFERENCES users(id) ON DELETE CASCADE
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+CREATE TABLE IF NOT EXISTS admin_audit (
+  id INT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  actor_name VARCHAR(30) NOT NULL,
+  action VARCHAR(40) NOT NULL,
+  target_type VARCHAR(20) NOT NULL,
+  target_id INT UNSIGNED NOT NULL,
+  detail VARCHAR(300) NOT NULL,
+  created_at DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;

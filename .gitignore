@@ -1,0 +1,33 @@
+# 依赖与构建产物
+node_modules/
+dist/
+dist-ssr/
+
+# 环境变量（真实数据库密码不能进仓库）
+.env
+.env.local
+
+# 用户上传的图片（演示图在 uploads/demo，需要保留）
+server/uploads/*
+!server/uploads/demo/
+!server/uploads/photos/
+!server/uploads/catalog/
+!server/uploads/.gitkeep
+
+# 日志
+*.log
+_dev.log*
+
+# 编辑器与系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 测试与缓存
+coverage/
+.pytest_cache/
+.nyc_output/
+
+# 本机隔离预览启动器
+server/scripts/preview.js

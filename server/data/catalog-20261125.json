@@ -1,0 +1,1058 @@
+[
+  {
+    "key": "book-9780132350884",
+    "title": "代码整洁之道 Clean Code",
+    "description": "从命名、函数到错误处理，练习让代码更容易维护。适合有编程基础后配合课程项目阅读。\n\n英文版纸质书，可作为课程延伸阅读或英语训练材料。版次、内页笔记与随书附件请在下单前留言确认；支持校内面交，验书后再确认收货。",
+    "categorySlug": "book",
+    "price": 48,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/book-9780132350884.jpg"
+    ],
+    "book": {
+      "author": "Robert C. Martin",
+      "publisher": "",
+      "edition": "英文版",
+      "isbn": "9780132350884",
+      "course": "软件工程",
+      "genre": "textbook",
+      "annotation": "unknown"
+    }
+  },
+  {
+    "key": "book-9780201633610",
+    "title": "设计模式 Design Patterns",
+    "description": "结合类图与经典例子理解创建型、结构型和行为型模式，适合面向对象课程与项目重构。\n\n英文版纸质书，可作为课程延伸阅读或英语训练材料。版次、内页笔记与随书附件请在下单前留言确认；支持校内面交，验书后再确认收货。",
+    "categorySlug": "book",
+    "price": 45,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/book-9780201633610.jpg"
+    ],
+    "book": {
+      "author": "Erich Gamma 等",
+      "publisher": "",
+      "edition": "英文版",
+      "isbn": "9780201633610",
+      "course": "面向对象设计",
+      "genre": "textbook",
+      "annotation": "unknown"
+    }
+  },
+  {
+    "key": "book-9780134494166",
+    "title": "整洁架构 Clean Architecture",
+    "description": "围绕依赖关系、模块边界与系统演进展开，适合在做过一个完整项目后梳理架构思路。\n\n英文版纸质书，可作为课程延伸阅读或英语训练材料。版次、内页笔记与随书附件请在下单前留言确认；支持校内面交，验书后再确认收货。",
+    "categorySlug": "book",
+    "price": 42,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/book-9780134494166.jpg"
+    ],
+    "book": {
+      "author": "Robert C. Martin",
+      "publisher": "",
+      "edition": "英文版",
+      "isbn": "9780134494166",
+      "course": "软件架构",
+      "genre": "textbook",
+      "annotation": "unknown"
+    }
+  },
+  {
+    "key": "book-9780135957059",
+    "title": "程序员修炼之道 The Pragmatic Programmer",
+    "description": "把调试、自动化、协作与持续学习串成一套日常实践，适合作为课程项目旁的技术读物。\n\n英文版纸质书，可作为课程延伸阅读或英语训练材料。版次、内页笔记与随书附件请在下单前留言确认；支持校内面交，验书后再确认收货。",
+    "categorySlug": "book",
+    "price": 52,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/book-9780135957059.jpg"
+    ],
+    "book": {
+      "author": "David Thomas / Andrew Hunt",
+      "publisher": "",
+      "edition": "英文版",
+      "isbn": "9780135957059",
+      "course": "软件工程",
+      "genre": "textbook",
+      "annotation": "unknown"
+    }
+  },
+  {
+    "key": "book-9781449373320",
+    "title": "数据密集型应用系统设计 DDIA",
+    "description": "覆盖数据模型、存储、复制与分布式处理，适合数据库和分布式课程的延伸阅读。\n\n英文版纸质书，可作为课程延伸阅读或英语训练材料。版次、内页笔记与随书附件请在下单前留言确认；支持校内面交，验书后再确认收货。",
+    "categorySlug": "book",
+    "price": 65,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/book-9781449373320.jpg"
+    ],
+    "book": {
+      "author": "Martin Kleppmann",
+      "publisher": "",
+      "edition": "英文版",
+      "isbn": "9781449373320",
+      "course": "分布式系统",
+      "genre": "textbook",
+      "annotation": "unknown"
+    }
+  },
+  {
+    "key": "book-9780131103627",
+    "title": "C 程序设计语言 The C Programming Language",
+    "description": "通过紧凑的语言说明与习题理解指针、结构和文件操作，适合配合上机练习使用。\n\n英文版纸质书，可作为课程延伸阅读或英语训练材料。版次、内页笔记与随书附件请在下单前留言确认；支持校内面交，验书后再确认收货。",
+    "categorySlug": "book",
+    "price": 28,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/book-9780131103627.jpg"
+    ],
+    "book": {
+      "author": "Brian W. Kernighan / Dennis M. Ritchie",
+      "publisher": "",
+      "edition": "英文版",
+      "isbn": "9780131103627",
+      "course": "C语言",
+      "genre": "textbook",
+      "annotation": "unknown"
+    }
+  },
+  {
+    "key": "book-9780262033848",
+    "title": "算法导论 Introduction to Algorithms",
+    "description": "包含排序、图算法与动态规划等主题，适合算法课程查阅、推导和课后练习。\n\n英文版纸质书，可作为课程延伸阅读或英语训练材料。版次、内页笔记与随书附件请在下单前留言确认；支持校内面交，验书后再确认收货。",
+    "categorySlug": "book",
+    "price": 58,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/book-9780262033848.jpg"
+    ],
+    "book": {
+      "author": "Thomas H. Cormen 等",
+      "publisher": "",
+      "edition": "英文版",
+      "isbn": "9780262033848",
+      "course": "算法与数据结构",
+      "genre": "textbook",
+      "annotation": "unknown"
+    }
+  },
+  {
+    "key": "book-9780133594140",
+    "title": "计算机网络 Computer Networking",
+    "description": "以自顶向下的方式介绍网络分层、传输与应用，适合配合抓包实验理解网络协议。\n\n英文版纸质书，可作为课程延伸阅读或英语训练材料。版次、内页笔记与随书附件请在下单前留言确认；支持校内面交，验书后再确认收货。",
+    "categorySlug": "book",
+    "price": 49,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/book-9780133594140.jpg"
+    ],
+    "book": {
+      "author": "James F. Kurose / Keith W. Ross",
+      "publisher": "",
+      "edition": "英文版",
+      "isbn": "9780133594140",
+      "course": "计算机网络",
+      "genre": "textbook",
+      "annotation": "unknown"
+    }
+  },
+  {
+    "key": "book-9780134092669",
+    "title": "深入理解计算机系统 Computer Systems",
+    "description": "从程序表示、处理器到内存和链接建立系统视角，适合计算机系统课程延伸阅读。\n\n英文版纸质书，可作为课程延伸阅读或英语训练材料。版次、内页笔记与随书附件请在下单前留言确认；支持校内面交，验书后再确认收货。",
+    "categorySlug": "book",
+    "price": 58,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/book-9780134092669.jpg"
+    ],
+    "book": {
+      "author": "Randal E. Bryant / David R. O’Hallaron",
+      "publisher": "",
+      "edition": "英文版",
+      "isbn": "9780134092669",
+      "course": "计算机组成",
+      "genre": "textbook",
+      "annotation": "unknown"
+    }
+  },
+  {
+    "key": "book-9780262035613",
+    "title": "深度学习 Deep Learning",
+    "description": "从数学基础到神经网络方法建立知识框架，适合有线性代数与概率基础的同学。\n\n英文版纸质书，可作为课程延伸阅读或英语训练材料。版次、内页笔记与随书附件请在下单前留言确认；支持校内面交，验书后再确认收货。",
+    "categorySlug": "book",
+    "price": 60,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/book-9780262035613.jpg"
+    ],
+    "book": {
+      "author": "Ian Goodfellow / Yoshua Bengio / Aaron Courville",
+      "publisher": "",
+      "edition": "英文版",
+      "isbn": "9780262035613",
+      "course": "人工智能",
+      "genre": "textbook",
+      "annotation": "unknown"
+    }
+  },
+  {
+    "key": "book-9781492032649",
+    "title": "动手学习机器学习 Hands-On Machine Learning",
+    "description": "围绕实际数据处理与模型训练组织内容，适合边读边运行代码，作为课程实验辅助。\n\n英文版纸质书，可作为课程延伸阅读或英语训练材料。版次、内页笔记与随书附件请在下单前留言确认；支持校内面交，验书后再确认收货。",
+    "categorySlug": "book",
+    "price": 56,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/book-9781492032649.jpg"
+    ],
+    "book": {
+      "author": "Aurélien Géron",
+      "publisher": "",
+      "edition": "英文版",
+      "isbn": "9781492032649",
+      "course": "机器学习",
+      "genre": "textbook",
+      "annotation": "unknown"
+    }
+  },
+  {
+    "key": "book-9781491946008",
+    "title": "流畅的 Python Fluent Python",
+    "description": "梳理 Python 数据模型、迭代和函数等核心机制，适合已经入门后提升代码表达能力。\n\n英文版纸质书，可作为课程延伸阅读或英语训练材料。版次、内页笔记与随书附件请在下单前留言确认；支持校内面交，验书后再确认收货。",
+    "categorySlug": "book",
+    "price": 52,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/book-9781491946008.jpg"
+    ],
+    "book": {
+      "author": "Luciano Ramalho",
+      "publisher": "",
+      "edition": "英文版",
+      "isbn": "9781491946008",
+      "course": "Python编程",
+      "genre": "textbook",
+      "annotation": "unknown"
+    }
+  },
+  {
+    "key": "book-9780134685991",
+    "title": "Effective Java｜Java 进阶阅读",
+    "description": "以条目式建议讨论对象设计、泛型和并发等主题，适合 Java 项目开发与课程复盘。\n\n英文版纸质书，可作为课程延伸阅读或英语训练材料。版次、内页笔记与随书附件请在下单前留言确认；支持校内面交，验书后再确认收货。",
+    "categorySlug": "book",
+    "price": 43,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/book-9780134685991.jpg"
+    ],
+    "book": {
+      "author": "Joshua Bloch",
+      "publisher": "",
+      "edition": "英文版",
+      "isbn": "9780134685991",
+      "course": "Java编程",
+      "genre": "textbook",
+      "annotation": "unknown"
+    }
+  },
+  {
+    "key": "book-9781593275990",
+    "title": "Python 自动化 Automate the Boring Stuff",
+    "description": "结合文件整理、表格处理与日常办公任务学习自动化，适合用小脚本改善课程资料管理。\n\n英文版纸质书，可作为课程延伸阅读或英语训练材料。版次、内页笔记与随书附件请在下单前留言确认；支持校内面交，验书后再确认收货。",
+    "categorySlug": "book",
+    "price": 46,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/book-9781593275990.jpg"
+    ],
+    "book": {
+      "author": "Al Sweigart",
+      "publisher": "",
+      "edition": "英文版",
+      "isbn": "9781593275990",
+      "course": "Python编程",
+      "genre": "textbook",
+      "annotation": "unknown"
+    }
+  },
+  {
+    "key": "book-9781593279288",
+    "title": "Python 编程入门 Python Crash Course",
+    "description": "结合基础概念与项目实践建立入门路径，适合第一门 Python 课程和课余自学。\n\n英文版纸质书，可作为课程延伸阅读或英语训练材料。版次、内页笔记与随书附件请在下单前留言确认；支持校内面交，验书后再确认收货。",
+    "categorySlug": "book",
+    "price": 36,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/book-9781593279288.jpg"
+    ],
+    "book": {
+      "author": "Eric Matthes",
+      "publisher": "",
+      "edition": "英文版",
+      "isbn": "9781593279288",
+      "course": "Python编程",
+      "genre": "textbook",
+      "annotation": "unknown"
+    }
+  },
+  {
+    "key": "book-9781593279509",
+    "title": "JavaScript 编程精解 Eloquent JavaScript",
+    "description": "通过练习和小项目理解语言、函数与浏览器编程，适合前端课程配合动手练习。\n\n英文版纸质书，可作为课程延伸阅读或英语训练材料。版次、内页笔记与随书附件请在下单前留言确认；支持校内面交，验书后再确认收货。",
+    "categorySlug": "book",
+    "price": 35,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/book-9781593279509.jpg"
+    ],
+    "book": {
+      "author": "Marijn Haverbeke",
+      "publisher": "",
+      "edition": "英文版",
+      "isbn": "9781593279509",
+      "course": "前端开发",
+      "genre": "textbook",
+      "annotation": "unknown"
+    }
+  },
+  {
+    "key": "book-9781617292231",
+    "title": "算法图解 Grokking Algorithms",
+    "description": "用图解讲述搜索、递归与常见算法，适合刚开始学数据结构时建立直观理解。\n\n英文版纸质书，可作为课程延伸阅读或英语训练材料。版次、内页笔记与随书附件请在下单前留言确认；支持校内面交，验书后再确认收货。",
+    "categorySlug": "book",
+    "price": 29,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/book-9781617292231.jpg"
+    ],
+    "book": {
+      "author": "Aditya Y. Bhargava",
+      "publisher": "",
+      "edition": "英文版",
+      "isbn": "9781617292231",
+      "course": "算法入门",
+      "genre": "textbook",
+      "annotation": "unknown"
+    }
+  },
+  {
+    "key": "book-9781491903995",
+    "title": "Effective Modern C++｜现代 C++ 实践",
+    "description": "围绕类型推导、智能指针和移动语义等展开，适合 C++ 基础之后的进阶阅读。\n\n英文版纸质书，可作为课程延伸阅读或英语训练材料。版次、内页笔记与随书附件请在下单前留言确认；支持校内面交，验书后再确认收货。",
+    "categorySlug": "book",
+    "price": 45,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/book-9781491903995.jpg"
+    ],
+    "book": {
+      "author": "Scott Meyers",
+      "publisher": "",
+      "edition": "英文版",
+      "isbn": "9781491903995",
+      "course": "C++编程",
+      "genre": "textbook",
+      "annotation": "unknown"
+    }
+  },
+  {
+    "key": "book-9780141439518",
+    "title": "傲慢与偏见 Pride and Prejudice",
+    "description": "用人物对话和社会观察练习英文长篇阅读，适合搭配词汇笔记，每天读一小节。\n\n英文版纸质书，可作为课程延伸阅读或英语训练材料。版次、内页笔记与随书附件请在下单前留言确认；支持校内面交，验书后再确认收货。",
+    "categorySlug": "book",
+    "price": 18,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/book-9780141439518.jpg"
+    ],
+    "book": {
+      "author": "Jane Austen",
+      "publisher": "",
+      "edition": "英文版",
+      "isbn": "9780141439518",
+      "course": "英语阅读",
+      "genre": "reading",
+      "annotation": "unknown"
+    }
+  },
+  {
+    "key": "book-9780451524935",
+    "title": "一九八四 Nineteen Eighty-Four",
+    "description": "一部适合精读与讨论的英文小说，可用于积累叙事表达与分析性写作素材。\n\n英文版纸质书，可作为课程延伸阅读或英语训练材料。版次、内页笔记与随书附件请在下单前留言确认；支持校内面交，验书后再确认收货。",
+    "categorySlug": "book",
+    "price": 20,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/book-9780451524935.jpg"
+    ],
+    "book": {
+      "author": "George Orwell",
+      "publisher": "",
+      "edition": "英文版",
+      "isbn": "9780451524935",
+      "course": "英语阅读",
+      "genre": "reading",
+      "annotation": "unknown"
+    }
+  },
+  {
+    "key": "book-9780451526342",
+    "title": "动物农场 Animal Farm",
+    "description": "篇幅相对精简，适合作为英文原著阅读起点，结合章节摘要练习复述和词汇整理。\n\n英文版纸质书，可作为课程延伸阅读或英语训练材料。版次、内页笔记与随书附件请在下单前留言确认；支持校内面交，验书后再确认收货。",
+    "categorySlug": "book",
+    "price": 16,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/book-9780451526342.jpg"
+    ],
+    "book": {
+      "author": "George Orwell",
+      "publisher": "",
+      "edition": "英文版",
+      "isbn": "9780451526342",
+      "course": "英语阅读",
+      "genre": "reading",
+      "annotation": "unknown"
+    }
+  },
+  {
+    "key": "book-9780743273565",
+    "title": "了不起的盖茨比 The Great Gatsby",
+    "description": "通过富有节奏感的语言练习文学阅读，适合边读边整理意象、人物关系和长句。\n\n英文版纸质书，可作为课程延伸阅读或英语训练材料。版次、内页笔记与随书附件请在下单前留言确认；支持校内面交，验书后再确认收货。",
+    "categorySlug": "book",
+    "price": 18,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/book-9780743273565.jpg"
+    ],
+    "book": {
+      "author": "F. Scott Fitzgerald",
+      "publisher": "",
+      "edition": "英文版",
+      "isbn": "9780743273565",
+      "course": "英语阅读",
+      "genre": "reading",
+      "annotation": "unknown"
+    }
+  },
+  {
+    "key": "book-9780061120084",
+    "title": "杀死一只知更鸟 To Kill a Mockingbird",
+    "description": "从成长叙事中练习理解观点与人物动机，适合英文阅读小组分章节讨论。\n\n英文版纸质书，可作为课程延伸阅读或英语训练材料。版次、内页笔记与随书附件请在下单前留言确认；支持校内面交，验书后再确认收货。",
+    "categorySlug": "book",
+    "price": 22,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/book-9780061120084.jpg"
+    ],
+    "book": {
+      "author": "Harper Lee",
+      "publisher": "",
+      "edition": "英文版",
+      "isbn": "9780061120084",
+      "course": "英语阅读",
+      "genre": "reading",
+      "annotation": "unknown"
+    }
+  },
+  {
+    "key": "book-9780061122415",
+    "title": "牧羊少年奇幻之旅 The Alchemist",
+    "description": "故事线清晰，适合碎片时间持续阅读，也适合练习英文摘录与段落概括。\n\n英文版纸质书，可作为课程延伸阅读或英语训练材料。版次、内页笔记与随书附件请在下单前留言确认；支持校内面交，验书后再确认收货。",
+    "categorySlug": "book",
+    "price": 20,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/book-9780061122415.jpg"
+    ],
+    "book": {
+      "author": "Paulo Coelho",
+      "publisher": "",
+      "edition": "英文版",
+      "isbn": "9780061122415",
+      "course": "英语阅读",
+      "genre": "reading",
+      "annotation": "unknown"
+    }
+  },
+  {
+    "key": "book-9780156012195",
+    "title": "小王子 The Little Prince",
+    "description": "短章节适合反复读，在熟悉故事中积累英文表达，也适合作为随身阅读的小书。\n\n英文版纸质书，可作为课程延伸阅读或英语训练材料。版次、内页笔记与随书附件请在下单前留言确认；支持校内面交，验书后再确认收货。",
+    "categorySlug": "book",
+    "price": 15,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/book-9780156012195.jpg"
+    ],
+    "book": {
+      "author": "Antoine de Saint-Exupéry",
+      "publisher": "",
+      "edition": "英文版",
+      "isbn": "9780156012195",
+      "course": "英语阅读",
+      "genre": "reading",
+      "annotation": "unknown"
+    }
+  },
+  {
+    "key": "book-9780747532699",
+    "title": "哈利波特与魔法石 Harry Potter",
+    "description": "通过熟悉的故事保持英文阅读兴趣，适合在课余按章节记录人物和新词。\n\n英文版纸质书，可作为课程延伸阅读或英语训练材料。版次、内页笔记与随书附件请在下单前留言确认；支持校内面交，验书后再确认收货。",
+    "categorySlug": "book",
+    "price": 25,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/book-9780747532699.jpg"
+    ],
+    "book": {
+      "author": "J. K. Rowling",
+      "publisher": "",
+      "edition": "英文版",
+      "isbn": "9780747532699",
+      "course": "英语阅读",
+      "genre": "reading",
+      "annotation": "unknown"
+    }
+  },
+  {
+    "key": "book-9780547928227",
+    "title": "霍比特人 The Hobbit",
+    "description": "冒险叙事适合练习连续阅读与情节复述，可配合自己的阅读进度做章节笔记。\n\n英文版纸质书，可作为课程延伸阅读或英语训练材料。版次、内页笔记与随书附件请在下单前留言确认；支持校内面交，验书后再确认收货。",
+    "categorySlug": "book",
+    "price": 24,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/book-9780547928227.jpg"
+    ],
+    "book": {
+      "author": "J. R. R. Tolkien",
+      "publisher": "",
+      "edition": "英文版",
+      "isbn": "9780547928227",
+      "course": "英语阅读",
+      "genre": "reading",
+      "annotation": "unknown"
+    }
+  },
+  {
+    "key": "book-9780735211292",
+    "title": "掌控习惯 Atomic Habits",
+    "description": "围绕习惯建立与环境设计整理方法，适合用来规划早读、运动和考前复习节奏。\n\n英文版纸质书，可作为课程延伸阅读或英语训练材料。版次、内页笔记与随书附件请在下单前留言确认；支持校内面交，验书后再确认收货。",
+    "categorySlug": "book",
+    "price": 28,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/book-9780735211292.jpg"
+    ],
+    "book": {
+      "author": "James Clear",
+      "publisher": "",
+      "edition": "英文版",
+      "isbn": "9780735211292",
+      "course": "学习方法",
+      "genre": "reading",
+      "annotation": "unknown"
+    }
+  },
+  {
+    "key": "book-9781455586691",
+    "title": "深度工作 Deep Work",
+    "description": "讨论专注时间和工作方式，适合想改善自习效率、减少打断的同学做方法参考。\n\n英文版纸质书，可作为课程延伸阅读或英语训练材料。版次、内页笔记与随书附件请在下单前留言确认；支持校内面交，验书后再确认收货。",
+    "categorySlug": "book",
+    "price": 26,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/book-9781455586691.jpg"
+    ],
+    "book": {
+      "author": "Cal Newport",
+      "publisher": "",
+      "edition": "英文版",
+      "isbn": "9781455586691",
+      "course": "学习方法",
+      "genre": "reading",
+      "annotation": "unknown"
+    }
+  },
+  {
+    "key": "book-9780804139298",
+    "title": "从零到一 Zero to One",
+    "description": "从产品、竞争和创新角度展开讨论，适合创新创业课程与校园项目选题阅读。\n\n英文版纸质书，可作为课程延伸阅读或英语训练材料。版次、内页笔记与随书附件请在下单前留言确认；支持校内面交，验书后再确认收货。",
+    "categorySlug": "book",
+    "price": 25,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/book-9780804139298.jpg"
+    ],
+    "book": {
+      "author": "Peter Thiel / Blake Masters",
+      "publisher": "",
+      "edition": "英文版",
+      "isbn": "9780804139298",
+      "course": "创新创业",
+      "genre": "reading",
+      "annotation": "unknown"
+    }
+  },
+  {
+    "key": "book-9780374533557",
+    "title": "思考，快与慢 Thinking, Fast and Slow",
+    "description": "通过认知与判断的研究认识思维偏差，适合通识阅读与写作素材积累。\n\n英文版纸质书，可作为课程延伸阅读或英语训练材料。版次、内页笔记与随书附件请在下单前留言确认；支持校内面交，验书后再确认收货。",
+    "categorySlug": "book",
+    "price": 30,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/book-9780374533557.jpg"
+    ],
+    "book": {
+      "author": "Daniel Kahneman",
+      "publisher": "",
+      "edition": "英文版",
+      "isbn": "9780374533557",
+      "course": "心理学阅读",
+      "genre": "reading",
+      "annotation": "unknown"
+    }
+  },
+  {
+    "key": "book-9780062316097",
+    "title": "人类简史 Sapiens",
+    "description": "以跨学科视角组织历史叙事，适合通识阅读、主题讨论与英文长篇阅读训练。\n\n英文版纸质书，可作为课程延伸阅读或英语训练材料。版次、内页笔记与随书附件请在下单前留言确认；支持校内面交，验书后再确认收货。",
+    "categorySlug": "book",
+    "price": 32,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/book-9780062316097.jpg"
+    ],
+    "book": {
+      "author": "Yuval Noah Harari",
+      "publisher": "",
+      "edition": "英文版",
+      "isbn": "9780062316097",
+      "course": "通识阅读",
+      "genre": "reading",
+      "annotation": "unknown"
+    }
+  },
+  {
+    "key": "goods-laptop",
+    "title": "轻薄笔记本电脑｜课程与论文搭子",
+    "description": "适合课程文档、网页查资料和轻量编程。购买前建议当面核对具体配置、屏幕、电池与接口，按自己的软件需求确认兼容性。\n\n支持先留言沟通细节，在校园公共区域面交。配件清单、具体状态及取货时间以双方确认的信息为准；建议当面验物后再确认收货。",
+    "categorySlug": "digital",
+    "price": 1680,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/goods-laptop.jpg"
+    ]
+  },
+  {
+    "key": "goods-tablet",
+    "title": "平板电脑｜阅读与课堂笔记",
+    "description": "适合阅读电子课件、整理课堂笔记和观看课程。建议交接时检查屏幕触控、充电和账号退出情况，手写笔等配件单独确认。\n\n支持先留言沟通细节，在校园公共区域面交。配件清单、具体状态及取货时间以双方确认的信息为准；建议当面验物后再确认收货。",
+    "categorySlug": "digital",
+    "price": 680,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/goods-tablet.jpg"
+    ]
+  },
+  {
+    "key": "goods-monitor",
+    "title": "一体式电脑｜给学习桌多一点视野",
+    "description": "适合看文档、课程学习与桌面办公。建议面交测试屏幕、接口和支架稳定性，具体配置、尺寸与系统版本以交接确认为准。\n\n支持先留言沟通细节，在校园公共区域面交。配件清单、具体状态及取货时间以双方确认的信息为准；建议当面验物后再确认收货。",
+    "categorySlug": "digital",
+    "price": 1380,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/goods-monitor.jpg"
+    ]
+  },
+  {
+    "key": "goods-keyboard",
+    "title": "简约桌面键盘｜宿舍的输入搭子",
+    "description": "适合日常写作、编程和桌面搭配。购买前确认键位布局、连接方式与敲击手感，宿舍使用也请留意声音是否合适。\n\n支持先留言沟通细节，在校园公共区域面交。配件清单、具体状态及取货时间以双方确认的信息为准；建议当面验物后再确认收货。",
+    "categorySlug": "digital",
+    "price": 68,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/goods-keyboard.jpg"
+    ]
+  },
+  {
+    "key": "goods-mouse-black",
+    "title": "无线鼠标｜轻装去自习",
+    "description": "适合笔记本日常办公与自习室使用。建议试用按键、滚轮和无线连接，接收器、电池或充电线是否包含需交接前确认。\n\n支持先留言沟通细节，在校园公共区域面交。配件清单、具体状态及取货时间以双方确认的信息为准；建议当面验物后再确认收货。",
+    "categorySlug": "digital",
+    "price": 35,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/goods-mouse-black.jpg"
+    ]
+  },
+  {
+    "key": "goods-mouse-white",
+    "title": "简约白色鼠标｜清爽学习桌面",
+    "description": "简约外观便于搭配浅色桌面，用于课程作业与浏览文档。建议试握大小、检查滚轮和连接稳定性，面交时核对配件。\n\n支持先留言沟通细节，在校园公共区域面交。配件清单、具体状态及取货时间以双方确认的信息为准；建议当面验物后再确认收货。",
+    "categorySlug": "digital",
+    "price": 32,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/goods-mouse-white.jpg"
+    ]
+  },
+  {
+    "key": "goods-headphones",
+    "title": "头戴式耳机｜把自习时间留给自己",
+    "description": "适合听网课、英语听力与日常音乐。建议当面检查左右声道、头梁和耳罩，使用前清洁接触部位，具体连接方式请确认。\n\n支持先留言沟通细节，在校园公共区域面交。配件清单、具体状态及取货时间以双方确认的信息为准；建议当面验物后再确认收货。",
+    "categorySlug": "digital",
+    "price": 128,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/goods-headphones.jpg"
+    ]
+  },
+  {
+    "key": "goods-earbuds",
+    "title": "无线蓝牙耳机｜通勤听力练习",
+    "description": "适合走路听播客、课程回放和英语磨耳朵。交接时可测试配对、两侧出声及充电，建议自备合适的耳塞并做好清洁。\n\n支持先留言沟通细节，在校园公共区域面交。配件清单、具体状态及取货时间以双方确认的信息为准；建议当面验物后再确认收货。",
+    "categorySlug": "digital",
+    "price": 88,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/goods-earbuds.jpg"
+    ]
+  },
+  {
+    "key": "goods-camera",
+    "title": "数码相机｜记录校园的四季",
+    "description": "适合社团拍摄、校园散步与摄影练习。建议当面试拍，检查对焦、镜片和存储功能，镜头、电池与充电器清单需单独核对。\n\n支持先留言沟通细节，在校园公共区域面交。配件清单、具体状态及取货时间以双方确认的信息为准；建议当面验物后再确认收货。",
+    "categorySlug": "digital",
+    "price": 980,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/goods-camera.jpg"
+    ]
+  },
+  {
+    "key": "goods-speaker",
+    "title": "桌面蓝牙音箱｜宿舍的小小音乐角",
+    "description": "适合低音量听音乐、播放播客和社团活动。建议先测试连接、扬声器与供电，宿舍使用请兼顾室友和安静时段。\n\n支持先留言沟通细节，在校园公共区域面交。配件清单、具体状态及取货时间以双方确认的信息为准；建议当面验物后再确认收货。",
+    "categorySlug": "digital",
+    "price": 68,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/goods-speaker.jpg"
+    ]
+  },
+  {
+    "key": "goods-phone",
+    "title": "备用智能手机｜轻量日常使用",
+    "description": "可作为备用设备、资料查看和日常通信工具。建议检查屏幕、摄像头、电池与网络，交接前确认账号解绑及数据清除。\n\n支持先留言沟通细节，在校园公共区域面交。配件清单、具体状态及取货时间以双方确认的信息为准；建议当面验物后再确认收货。",
+    "categorySlug": "digital",
+    "price": 480,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/goods-phone.jpg"
+    ]
+  },
+  {
+    "key": "goods-controller",
+    "title": "游戏手柄｜周末放松一会儿",
+    "description": "适合课余游戏与朋友一起体验。购买前核对适配平台、连接方式、摇杆与按键，是否带连接线和接收器需交接前确认。\n\n支持先留言沟通细节，在校园公共区域面交。配件清单、具体状态及取货时间以双方确认的信息为准；建议当面验物后再确认收货。",
+    "categorySlug": "digital",
+    "price": 110,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/goods-controller.jpg"
+    ]
+  },
+  {
+    "key": "goods-lamp",
+    "title": "桌面台灯｜晚自习后的温柔灯光",
+    "description": "为阅读和做笔记补充桌面照明，适合宿舍书桌。建议面交检查开关、灯臂与电源，使用前确认宿舍用电规定。\n\n支持先留言沟通细节，在校园公共区域面交。配件清单、具体状态及取货时间以双方确认的信息为准；建议当面验物后再确认收货。",
+    "categorySlug": "life",
+    "price": 39,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/goods-lamp.jpg"
+    ]
+  },
+  {
+    "key": "goods-mug",
+    "title": "陶瓷马克杯｜书桌上的热饮时刻",
+    "description": "适合装咖啡、牛奶或茶，也能给桌面添一点生活感。交接前确认杯口、杯底和是否有磕碰，使用前请彻底清洁。\n\n支持先留言沟通细节，在校园公共区域面交。配件清单、具体状态及取货时间以双方确认的信息为准；建议当面验物后再确认收货。",
+    "categorySlug": "life",
+    "price": 18,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/goods-mug.jpg"
+    ]
+  },
+  {
+    "key": "goods-bottle",
+    "title": "随行水杯｜上课运动都带上",
+    "description": "适合带去教室、自习室或运动场。购买前确认杯盖、密封圈和容量，清洁消毒后再使用，材质与耐温范围请核实。\n\n支持先留言沟通细节，在校园公共区域面交。配件清单、具体状态及取货时间以双方确认的信息为准；建议当面验物后再确认收货。",
+    "categorySlug": "life",
+    "price": 22,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/goods-bottle.jpg"
+    ]
+  },
+  {
+    "key": "goods-clock",
+    "title": "简约挂钟｜把时间留在抬头处",
+    "description": "适合宿舍墙面、阅读角和学习区。建议测试走时与供电方式，提前确认尺寸、挂放位置及墙面固定方式是否合适。\n\n支持先留言沟通细节，在校园公共区域面交。配件清单、具体状态及取货时间以双方确认的信息为准；建议当面验物后再确认收货。",
+    "categorySlug": "life",
+    "price": 25,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/goods-clock.jpg"
+    ]
+  },
+  {
+    "key": "goods-chair",
+    "title": "原木方凳｜给学习角多一个座位",
+    "description": "适合宿舍临时落座、阅读角或小书桌搭配。请当面检查凳脚、结构与坐感，提前测量空间，搬运和取货方式可通过留言沟通。\n\n支持先留言沟通细节，在校园公共区域面交。配件清单、具体状态及取货时间以双方确认的信息为准；建议当面验物后再确认收货。",
+    "categorySlug": "life",
+    "price": 45,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/goods-chair.jpg"
+    ]
+  },
+  {
+    "key": "goods-backpack",
+    "title": "日常双肩包｜装下课本和周末",
+    "description": "适合上课、自习和短途出行。购买前检查拉链、肩带和内衬，根据自己的电脑或课本尺寸确认是否能装下。\n\n支持先留言沟通细节，在校园公共区域面交。配件清单、具体状态及取货时间以双方确认的信息为准；建议当面验物后再确认收货。",
+    "categorySlug": "clothing",
+    "price": 45,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/goods-backpack.jpg"
+    ]
+  },
+  {
+    "key": "goods-tote",
+    "title": "编织手提包｜周末出门刚刚好",
+    "description": "适合周末出行和携带随身小物。建议面交检查提手、内衬与开合，容量和包带长度请按自身使用习惯确认。\n\n支持先留言沟通细节，在校园公共区域面交。配件清单、具体状态及取货时间以双方确认的信息为准；建议当面验物后再确认收货。",
+    "categorySlug": "clothing",
+    "price": 38,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/goods-tote.jpg"
+    ]
+  },
+  {
+    "key": "goods-suitcase",
+    "title": "旅行行李箱｜从宿舍出发",
+    "description": "适合返校、回家和周末出游。交接前建议拉动检查滚轮、拉杆与锁扣，尺寸是否符合乘车或登机要求需自行核对。\n\n支持先留言沟通细节，在校园公共区域面交。配件清单、具体状态及取货时间以双方确认的信息为准；建议当面验物后再确认收货。",
+    "categorySlug": "clothing",
+    "price": 98,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/goods-suitcase.jpg"
+    ]
+  },
+  {
+    "key": "goods-denim",
+    "title": "牛仔外套｜换季穿搭的一件",
+    "description": "适合课间、社团与日常通勤搭配。购买前请确认肩宽、衣长和尺码，交接时检查领口、袖口及扣件，清洗后再穿。\n\n支持先留言沟通细节，在校园公共区域面交。配件清单、具体状态及取货时间以双方确认的信息为准；建议当面验物后再确认收货。",
+    "categorySlug": "clothing",
+    "price": 55,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/goods-denim.jpg"
+    ]
+  },
+  {
+    "key": "goods-sneakers",
+    "title": "运动休闲鞋｜去操场也去上课",
+    "description": "适合日常走路与轻量活动。请提前确认鞋码、脚型和鞋底状态，面交检查支撑与磨损，清洁干燥后再使用。\n\n支持先留言沟通细节，在校园公共区域面交。配件清单、具体状态及取货时间以双方确认的信息为准；建议当面验物后再确认收货。",
+    "categorySlug": "clothing",
+    "price": 78,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/goods-sneakers.jpg"
+    ]
+  },
+  {
+    "key": "goods-bicycle",
+    "title": "校园自行车｜把路程变成风景",
+    "description": "适合校园和周边短途出行。建议面交试骑，检查刹车、轮胎、车架和传动，确认车辆归属及校园停放规定。\n\n支持先留言沟通细节，在校园公共区域面交。配件清单、具体状态及取货时间以双方确认的信息为准；建议当面验物后再确认收货。",
+    "categorySlug": "sports",
+    "price": 260,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/goods-bicycle.jpg"
+    ]
+  },
+  {
+    "key": "goods-basketball",
+    "title": "篮球｜下课去球场见",
+    "description": "适合球场练习、社团活动和同学组局。建议确认球号、握感与气密性，场地适配和球面状态可在交接时检查。\n\n支持先留言沟通细节，在校园公共区域面交。配件清单、具体状态及取货时间以双方确认的信息为准；建议当面验物后再确认收货。",
+    "categorySlug": "sports",
+    "price": 45,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/goods-basketball.jpg"
+    ]
+  },
+  {
+    "key": "goods-football",
+    "title": "足球｜周末约一场",
+    "description": "适合日常传接球、社团训练与球场活动。建议检查球皮、缝线与气嘴，确认规格与使用场地后再购买。\n\n支持先留言沟通细节，在校园公共区域面交。配件清单、具体状态及取货时间以双方确认的信息为准；建议当面验物后再确认收货。",
+    "categorySlug": "sports",
+    "price": 38,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/goods-football.jpg"
+    ]
+  },
+  {
+    "key": "goods-tennis",
+    "title": "网球拍｜把第一堂网球课接下去",
+    "description": "适合体育选修课和入门练习。建议核对拍重、握柄大小和拍框状态，球线与手胶是否需要更换可在面交时确认。\n\n支持先留言沟通细节，在校园公共区域面交。配件清单、具体状态及取货时间以双方确认的信息为准；建议当面验物后再确认收货。",
+    "categorySlug": "sports",
+    "price": 95,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/goods-tennis.jpg"
+    ]
+  },
+  {
+    "key": "goods-yoga",
+    "title": "瑜伽垫｜给自己留一块运动空间",
+    "description": "适合拉伸、基础瑜伽和徒手训练。请提前确认尺寸、厚度与防滑情况，检查表面后清洁晾干，按个人运动需求选择。\n\n支持先留言沟通细节，在校园公共区域面交。配件清单、具体状态及取货时间以双方确认的信息为准；建议当面验物后再确认收货。",
+    "categorySlug": "sports",
+    "price": 29,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/goods-yoga.jpg"
+    ]
+  },
+  {
+    "key": "goods-skateboard-long",
+    "title": "长板滑板｜校园路上的新爱好",
+    "description": "适合课余练习和平整场地体验。建议检查板面、桥和轮子，使用时佩戴护具，并遵守校园场地管理要求。\n\n支持先留言沟通细节，在校园公共区域面交。配件清单、具体状态及取货时间以双方确认的信息为准；建议当面验物后再确认收货。",
+    "categorySlug": "sports",
+    "price": 120,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/goods-skateboard-long.jpg"
+    ]
+  },
+  {
+    "key": "goods-tent",
+    "title": "户外帐篷｜和朋友计划一次露营",
+    "description": "适合周末户外活动与露营入门。购买前建议核对杆件、地钉、外帐和收纳袋，在允许搭建的场地检查完整性。\n\n支持先留言沟通细节，在校园公共区域面交。配件清单、具体状态及取货时间以双方确认的信息为准；建议当面验物后再确认收货。",
+    "categorySlug": "sports",
+    "price": 135,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/goods-tent.jpg"
+    ]
+  },
+  {
+    "key": "goods-guitar",
+    "title": "木吉他｜把晚风弹成旋律",
+    "description": "适合社团练习、弹唱入门与课余放松。建议当面试弹，检查琴颈、面板与弦距，琴包等配件可交接前沟通。\n\n支持先留言沟通细节，在校园公共区域面交。配件清单、具体状态及取货时间以双方确认的信息为准；建议当面验物后再确认收货。",
+    "categorySlug": "art",
+    "price": 260,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/goods-guitar.jpg"
+    ]
+  },
+  {
+    "key": "goods-vinyl",
+    "title": "黑胶唱片｜把喜欢的声音收藏起来",
+    "description": "适合音乐爱好者收藏和桌面陈列。购买前确认唱片曲目、规格与兼容设备，面交查看盘面和封套，播放状态请先沟通。\n\n支持先留言沟通细节，在校园公共区域面交。配件清单、具体状态及取货时间以双方确认的信息为准；建议当面验物后再确认收货。",
+    "categorySlug": "art",
+    "price": 48,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/goods-vinyl.jpg"
+    ]
+  },
+  {
+    "key": "goods-notebook",
+    "title": "日常钢笔｜把想法重新写下来",
+    "description": "适合课程整理、手账和读书摘录。请提前确认笔尖、供墨方式与书写手感，检查握持部位和是否漏墨，墨水与配件另行确认。\n\n支持先留言沟通细节，在校园公共区域面交。配件清单、具体状态及取货时间以双方确认的信息为准；建议当面验物后再确认收货。",
+    "categorySlug": "art",
+    "price": 26,
+    "condition": "good",
+    "tradePlace": "校园公共区域协商面交",
+    "images": [
+      "/uploads/catalog/goods-notebook.jpg"
+    ]
+  }
+]

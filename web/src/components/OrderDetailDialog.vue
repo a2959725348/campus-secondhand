@@ -1,0 +1,10 @@
+<script setup>
+import {computed} from 'vue';
+import {formatPrice,resolveImage} from '../utils/format';
+const props=defineProps({modelValue:Boolean,order:Object});const emit=defineEmits(['update:modelValue']);
+const open=computed({get:()=>props.modelValue,set:value=>emit('update:modelValue',value)});
+const status={pending:'待交易',shipped:'已发货',completed:'已完成',cancelled:'已取消'};
+const address=computed(()=>{const a=props.order?.addressSnapshot;if(!a)return null;try{return typeof a==='string'?JSON.parse(a):a;}catch{return null;}});
+const when=value=>value?new Date(value).toLocaleString('zh-CN'):'—';
+</script>
+<template><el-dialog v-model="open" title="订单详情" width="min(650px,94vw)"><template v-if="order"><div class="detail-order-head"><img :src="resolveImage(order.cover)" :alt="order.itemTitle"/><div><h3>{{order.itemTitle}}</h3><strong>{{formatPrice(order.price)}}</strong><p>{{status[order.status]||order.status}}</p></div></div><el-descriptions :column="1" border><el-descriptions-item label="订单号">{{order.orderNo}}</el-descriptions-item><el-descriptions-item label="买家">{{order.buyerNickname}}</el-descriptions-item><el-descriptions-item label="卖家">{{order.sellerNickname}}</el-descriptions-item><el-descriptions-item label="交付方式">{{order.deliveryMode==='shipping'?'邮寄收货':'校内面交'}}</el-descriptions-item><el-descriptions-item label="下单时间">{{when(order.createdAt)}}</el-descriptions-item><el-descriptions-item v-if="order.remark" label="留言">{{order.remark}}</el-descriptions-item><el-descriptions-item v-if="address" label="下单时收货地址"><strong>{{address.receiverName}} · {{address.phone}}</strong><p>{{address.province}}{{address.city}}{{address.district}}{{address.detail}}</p></el-descriptions-item><el-descriptions-item v-if="order.trackingNo" label="物流信息">{{order.carrier}} · {{order.trackingNo}}<p>{{when(order.shippedAt)}}</p></el-descriptions-item><el-descriptions-item v-if="order.completedAt" label="完成时间">{{when(order.completedAt)}}</el-descriptions-item></el-descriptions></template></el-dialog></template>
